@@ -9,4 +9,4 @@ scikit-learn,
 pickle, 
 Flask
 
-
+Save the model in pickel (eg:model.pkl)
